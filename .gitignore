@@ -1,0 +1,10 @@
+cifar.tar.gz
+starter.ipynb
+file.png
+test.lst
+train.lst
+test/
+train/
+cifar-100-python/
+captured_data/
+
